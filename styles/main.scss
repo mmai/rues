@@ -1,0 +1,18 @@
+@import "compass_twitter_bootstrap";
+
+.tagline {
+  margin: 0;
+  font-style:italic;
+
+  blockquote {
+    padding: 0;
+    border-left: 0px solid $grayLight;
+    display:inline;
+  }
+  figcaption {
+    display:inline;
+    &:before {
+      content: '\2014 \00A0';
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "googlemaps-sensorsfalse",
+  "main": "index.js",
+  "version": "3.9.0",
+  "repository": {
+    "type": "asset",
+    "url": "http://maps.googleapis.com/maps/api/js?v=3.9&sensor=false"
+  }
+}
